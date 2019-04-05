@@ -11,14 +11,45 @@
       <p><b>liuwei16@nudt.edu.com</b></p>
     </td>
     <td width="25%">
-      <img src="imagescrop_avatar.jpg" width="100%">  
+      <img src="wl.jpg" width="100%">  
     </td>
   </tr>
 </table>
 
 
-# Header 1
-## Header 2
+## News
+- 02 / 2019: One paper is accepted by CVPR 2019
+
+- 02 / 2019: One paper is accepted by TCSVT
+
+- 02 / 2019: One paper is accepted by Neurocomping
+
+- 07 / 2018: One paper is accepted by ECCV 2018
+
+- 03 / 2018: Two papers are accepted by ICME 2018
+
+## Publications
+#### High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection
+- **Wei Liu**, Shengcai Liao, Weiqiang Ren, Weidong Hu and Yinan Yu
+- *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019*
+- [paper], [code](https://github.com/liuwei16/CSP)
+
+#### Learning Efficient Single-stage Pedestrian Detectors by Asymptotic Localization Fitting
+- **Wei Liu**, Shengcai Liao, Weidong Hu, Xuezhi Liang and Xiao Chen
+- *The European Conference on Computer Vision (ECCV), 2018*
+- [paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Wei_Liu_Learning_Efficient_Single-stage_ECCV_2018_paper.html), [code](https://github.com/liuwei16/ALFNet)
+
+#### Improving Tiny Vehicle Detection in Complex Scenes
+- **Wei Liu**, Shengcai Liao, Weidong Hu, Xuezhi Liang and Yan Zhang
+- *IEEE International Conference on Multimedia and Expo (ICME), 2018*
+- [paper](https://github.com/liuwei16/ITVD_icme/tree/master/docs/2018ICME-ITVD.pdf), [code](https://github.com/liuwei16/ITVD_icme)
+
+
+
+
+
+
+
 ### Header 3
 
 - Bulleted
