@@ -1,15 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to LiuWei's HomePage
 
-You can use the [editor on GitHub](https://github.com/liuwei16/liuwei16.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>About Me</h1>
+      <p><b>Liu Wei, Four-year PhD student</b></p>
+      <p><b>ATR, College of Electronic Science, National University of Defense Technology (NUDT)</b></p>
+      <p><b>Changsha, China</b></p>
+      <p><b>liuwei16@nudt.edu.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="imagescrop_avatar.jpg" width="100%">  
+    </td>
+  </tr>
+</table>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
