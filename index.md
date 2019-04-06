@@ -1,5 +1,3 @@
-## Welcome to LiuWei's HomePage
-
 
 <table border="0">
   <tr>
@@ -9,7 +7,7 @@
       <p><b>ATR, College of Electronic Science, National University of Defense Technology (NUDT)</b></p>
       <p><b>Changsha, China</b></p>
       <p><b>E-mail: liuwei16@nudt.edu.com</b></p>
-      <p><b>Research Interest: Machine Learning and Computer Vision, with a focus on pedestrian detection, face detection, domain adaptation and GAN</b></p>
+      <p><b>Research Interest: Machine Learning and Computer Vision, with a focus on pedestrian detection, face detection, video object detection, domain adaptation and GAN</b></p>
     </td>
     <td width="25%">
       <img src="wl.jpg" width="100%">  
@@ -19,9 +17,9 @@
 
 
 ## News
-- 02 / 2019: One paper is accepted by CVPR 2019
+- 03 / 2019: One paper is accepted by TCSVT
 
-- 02 / 2019: One paper is accepted by TCSVT
+- 02 / 2019: One paper is accepted by CVPR 2019
 
 - 02 / 2019: One paper is accepted by Neurocomping
 
@@ -31,14 +29,14 @@
 
 ## Publications
 #### High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection
-- **Wei Liu**, Shengcai Liao, Weiqiang Ren, Weidong Hu and Yinan Yu
+- **Wei Liu**, [Shengcai Liao](https://liaosc.wordpress.com/), Weiqiang Ren, Weidong Hu and Yinan Yu
 - *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019*
 - [paper], [code](https://github.com/liuwei16/CSP)
 
 #### Learning Efficient Single-stage Pedestrian Detectors by Asymptotic Localization Fitting
 - **Wei Liu**, Shengcai Liao, Weidong Hu, Xuezhi Liang and Xiao Chen
 - *The European Conference on Computer Vision (ECCV), 2018*
-- [paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Wei_Liu_Learning_Efficient_Single-stage_ECCV_2018_paper.html), [code](https://github.com/liuwei16/ALFNet), [poster](https://github.com/liuwei16/ALFNet/docs/ECCV2018_poster_ID2718.pptx)
+- [paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Wei_Liu_Learning_Efficient_Single-stage_ECCV_2018_paper.html), [code](https://github.com/liuwei16/ALFNet), [poster](https://github.com/liuwei16/ALFNet//tree/master/docs/ECCV2018_poster_ID2718.pptx)
 
 #### Improving Tiny Vehicle Detection in Complex Scenes
 - **Wei Liu**, Shengcai Liao, Weidong Hu, Xuezhi Liang and Yan Zhang
@@ -99,7 +97,7 @@
     </td>
     <td width="75%">
       <p><b>Joint educated PhD student, Institute of Automation, Chinese Academy of Sciences (CASIA)</b></p>
-      <p><b>June 2017 - Present, Supervised by Doc. [Liao Shengcai](https://liaosc.wordpress.com/)</b></p>
+      <p><b>June 2017 - Present, Supervised by Doc. Liao Shengcai</b></p>
     </td>  
   </tr>
 </table>
