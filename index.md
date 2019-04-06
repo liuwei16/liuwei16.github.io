@@ -46,12 +46,12 @@
 #### Perceiving Motion from Dynamic Memory for Vehicle Detection in Surveillance Videos
 - **Wei Liu**, Shengcai Liao, Weidong Hu
 - *IEEE Transaction on Circuits and System for Video Technology (TCSVT), 2019*
-- [paper]
+- [paper](https://ieeexplore.ieee.org/abstract/document/8669956)
 
 #### Towards Accurate Tiny Vehicle Detection in Complex Scenes
 - **Wei Liu**, Shengcai Liao, Weidong Hu
 - *Neurocomputing, 2019*
-- [paper]
+- [paper](https://www.sciencedirect.com/science/article/pii/S092523121930298X)
 
 #### Efficient Single-Stage Pedestrian Detector by Asymptotic Localization Fitting and Multi-Scale Context Encoding
 - **Wei Liu**, Shengcai Liao, Weidong Hu
