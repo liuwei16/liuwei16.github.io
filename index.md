@@ -32,7 +32,7 @@
 #### High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection
 - **Wei Liu**, [Shengcai Liao](https://liaosc.wordpress.com/), Weiqiang Ren, Weidong Hu and Yinan Yu
 - *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019*
-- [paper], [code](https://github.com/liuwei16/CSP)
+- [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_High-Level_Semantic_Feature_Detection_A_New_Perspective_for_Pedestrian_Detection_CVPR_2019_paper.pdf), [code](https://github.com/liuwei16/CSP)
 
 #### Learning Efficient Single-stage Pedestrian Detectors by Asymptotic Localization Fitting
 - **Wei Liu**, Shengcai Liao, Weidong Hu, Xuezhi Liang and Xiao Chen
@@ -99,7 +99,7 @@
     </td>
     <td width="75%">
       <p><b>Joint educated PhD student, Institute of Automation, Chinese Academy of Sciences (CASIA)</b></p>
-      <p><b>June 2017 - March 2019, Supervised by Dr. Liao Shengcai</b></p>
+      <p><b>June 2017 - Mar. 2019, Supervised by Dr. Liao Shengcai</b></p>
     </td>  
   </tr>
 </table>
