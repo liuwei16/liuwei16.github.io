@@ -5,7 +5,7 @@
       <h1>About Me</h1>
       <p><b>Liu Wei, </b></p>
       <p><b>received the Ph.D. degree of Information and Communication Engineering in National University of Defense Technology (NUDT). Before that, he worked as a joint educated PhD student in Institute of Automation, Chinese Academy of Sciences (CASIA), under the supervision of Dr. Liao Shengcai.</b></p>
-      <p><b>E-mail: liuwei16@nudt.edu.com</b></p>
+      <p><b>E-mail: liuwei16@nudt.edu.cn</b></p>
       <p><b>Research Interest: Machine Learning and Computer Vision, with a focus on pedestrian detection, face detection, video object detection, domain adaptation and GAN</b></p>
     </td>
     <td width="25%">
@@ -99,7 +99,7 @@
     </td>
     <td width="75%">
       <p><b>Joint educated PhD student, Institute of Automation, Chinese Academy of Sciences (CASIA)</b></p>
-      <p><b>June 2017 - March 2019, Supervised by Doc. Liao Shengcai</b></p>
+      <p><b>June 2017 - March 2019, Supervised by Dr. Liao Shengcai</b></p>
     </td>  
   </tr>
 </table>
