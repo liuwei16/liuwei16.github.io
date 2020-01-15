@@ -17,6 +17,8 @@
 
 
 ## News
+- 09 / 2019: One paper is accepted by TIP
+
 - 03 / 2019: One paper is accepted by TCSVT
 
 - 02 / 2019: One paper is accepted by CVPR 2019
@@ -48,14 +50,15 @@
 - *IEEE Transaction on Circuits and System for Video Technology (TCSVT), 2019*
 - [paper](https://ieeexplore.ieee.org/abstract/document/8669956)
 
+#### Efficient Single-Stage Pedestrian Detector by Asymptotic Localization Fitting and Multi-Scale Context Encoding
+- **Wei Liu**, Shengcai Liao, Weidong Hu
+- *IEEE Transaction on Image Processing (TIP), 2019*
+- [paper](https://ieeexplore.ieee.xilesou.top/abstract/document/8839736)
+
 #### Towards Accurate Tiny Vehicle Detection in Complex Scenes
 - **Wei Liu**, Shengcai Liao, Weidong Hu
 - *Neurocomputing, 2019*
 - [paper](https://www.sciencedirect.com/science/article/pii/S092523121930298X)
-
-#### Efficient Single-Stage Pedestrian Detector by Asymptotic Localization Fitting and Multi-Scale Context Encoding
-- **Wei Liu**, Shengcai Liao, Weidong Hu
-- *IEEE Transaction on Image Procession (TIP), in Peer Review*
 
 #### Deep Background Subtraction with Guided Learning
 - Xuezhi Liang, Shengcai Liao, **Wei Liu**
